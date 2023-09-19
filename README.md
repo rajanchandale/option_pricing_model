@@ -3,10 +3,10 @@
 An option pricing model in Python that calculates theoretical prices for both call and put options using the Black-Scholes formula and the binomial model. It gathers current market data, computes historical volatility, and uses the SONIA overnight rate for the risk-free rate estimations. Supports user inputs for strike price and expiration date. 
 
 ## Table of Contents
-- Features
-- Prerequisites
-- Usage
-- Functions Overview
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Functions Overview](#functions-overview)
 
 ## Features
 
